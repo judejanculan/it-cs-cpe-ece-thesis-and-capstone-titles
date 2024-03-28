@@ -12,20 +12,6 @@
     </p>
 </div>
 
-### Version: 2020 Thesis, Capstone and Project Title List
-
-### List of available IT, CS, CpE and ECE Capstone or Thesis Titles
-- Visit us at: [Webmons Development Studio](https://webmons.com)
-- For Inquiries Please Text/Call: +63928-960-3036 or email us webmonsph@gmail.com
-- Refer a client and get commission from us! Php1,000 for single successful referral and 10% to 30% each for more than 2 successful referrals.
-
-### Other Facebook Pages (Helpful Resources)
-- Like our page: [Official Webmons Page](https://www.facebook.com/Webmons)
-- Thesis Helper page: [Free IT CS ECE CPE Capstone/Thesis/Project Helper Group (Software/Hardware)](https://www.facebook.com/ph.thesis.maker)
-- Android Developer Group: [Philippines Android Developer Group](https://www.facebook.com/groups/ph.android)
-- iOS Developer Group: [Philippines iOS Developer Group](https://www.facebook.com/groups/ph.ios)
-- Programming and Software Group: [Programmer and Developers Group](https://www.facebook.com/groups/ProgrammersAndDevelopersPhilippines)
-- Job Posting: [Free Job Posting Group](https://www.facebook.com/groups/ph.trabaho)
 
 ### Resources for IT/CS/ECE/Cpe Students
 - [List of Topics](http://cosmolearning.org/computer-science/topics)
